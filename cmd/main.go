@@ -1,8 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"github.com/898anil/gotest/pkg/rpcserver/jsonrpcserver"
+)
 
 func main() {
-	data := mysql.getData()
-	fmt.Println(data)
+	jsonrpcserver.Start()
 }

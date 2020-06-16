@@ -1,0 +1,5 @@
+mysql:
+    host: "localhost"
+    database: "navi"
+rpc: 
+    port: 1234

@@ -1,0 +1,3 @@
+2020/06/17 03:23:41 logger.go:18: LogFile : ./debug.log
+2020/06/17 03:23:44 jsonRPCServer.go:27: new connection established
+2020/06/17 03:23:44 mysql.go:14: SELECT id, email from auth_user where id=7;
